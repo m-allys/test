@@ -13,4 +13,5 @@ Main.start = (function(){
        });
        
    server.listen(process.env.PORT || 5000);
-});
+   
+})();
