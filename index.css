@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+#BoDy {
+	background-color: none;
+}
+#fieldHeader {
+	margin-top: -0.3%;
+	margin-left: -1.5%; margin-right: -1.5%;
+	background-color: lightblue;
+	padding-top: 1%; padding-bottom: 1%;
+}
+.labTitr{
+	float: left;
+	font-size: 30px;
+	color: blue;
+	padding-top: 5px;
+	text-shadow: 1px 3px 1px red;
+	padding-left: 40px;
+}
+#header {}
+#header ul {
+	margin-right: 18%;
+	margin-bottom: -0.5%;
+}
+#header ul li {
+	overflow: hidden;
+	float: right;
+	margin: 0.1%;
+	border: solid 1px;
+}
+#header ul li a{
+	text-decoration: none;
+	/* padding: 5px; */
+	font-size: 25px;
+	padding-right: 11px;
+    padding-left: 11px;   
+}
+#headImg {
+	display: inline-block;
+	position: relative;
+	margin-left: 14%;
+	margin-top: -0.4%;
+}
+.img0 {
+	margin-top: 2%;
+}
+
+.overPic {
+	font-size: 50px;
+	position: absolute;
+	margin: 0 auto;
+	z-index: 1;
+	right: 0;
+	left: 0;
+	color: black;
+	/* bottom: 80%; */
+	text-align: center;
+	border: solid 1px;
+}
+.overPic1 {
+	font-size: 30px;
+	position: absolute;
+	margin: 0 auto;
+	z-index: 1;
+	right: 0;
+	left: 0;
+	color: black;
+	bottom: 60%;
+	text-align: center;
+	text-shadow: 1px 5px 1px yellow;
+}
+#imgDoc {
+	float: left
+}
+.img1 {
+	float: left;
+	margin-top: -10%;
+}
+.imgInfo ul{
+	float: right;
+	margin-top: 2%;
+}
+.imgInfo ul li {
+	overflow: hidden;
+	/* float: right; */
+	font-size: 23px;
+	margin-left: -50%;
+}
+#souImag0 ul {
+	float: left;
+	margin-left: -33%;
+}
+#souImag0 ul li {
+	margin-top: 67%;
+	float: left;
+	border: solid 1px;
+	overflow: hidden;
+}
+#souImag0 ul li a {
+	padding: 10px;
+}
